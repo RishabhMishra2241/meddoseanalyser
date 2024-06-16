@@ -67,10 +67,3 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgements
-
-- [EDYODA](https://www.edyoda.com/courses/all) for providing educational resources.
-- [W3Schools](https://www.w3schools.com/) for their extensive documentation.
-- [Vecteezy](https://www.vecteezy.com/free-png/3d-illustration) for free 3D illustrations.
-
